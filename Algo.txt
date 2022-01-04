@@ -1,0 +1,10 @@
+Choose where to order from
+choose what pizza to order
+debate on cheese bread
+check bank account
+if (gotMoney == true){
+    order();
+}
+else {
+    stop
+}
