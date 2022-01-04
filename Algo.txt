@@ -1,10 +1,10 @@
-Choose where to order from
-choose what pizza to order
-debate on cheese bread
-check bank account
-if (gotMoney == true){
-    order();
-}
-else {
-    stop
-}
+1. Choose where to order from
+2. choose what pizza to order
+3. debate on cheese bread
+4. check bank account
+5.  if (gotMoney == true){
+        order();
+    }
+    else {
+        stop
+    }
